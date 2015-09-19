@@ -1,0 +1,19 @@
+{
+  "author": "Bastien VINH <bus.bvinh@gmail.com>",
+  "bin": "src/program.js",
+  "version": "1.0.0",
+  "readme": "README.md",
+  "keywords": [
+    "node js",
+    "console",
+    "challenge",
+    "appspotr"
+  ],
+  "description": "This a challenge asking by appspotr, So I accepted the challenge",
+  "dependencies": {
+    "async": "^1.4.2",
+    "collections": "^1.2.4",
+    "merge": "^1.2.0",
+    "request": "^2.61.0"
+  }
+}

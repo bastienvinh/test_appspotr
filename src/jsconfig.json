@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "commonjs"
+    },
+    "files" : [
+        "typings/node/node.d.ts",
+        "typings/form-data/form-data.d.ts",
+        "typings/request/request.d.ts",
+        "typings/async/async.d.ts",
+        "program.js",
+        "utils/server-challenge.js",
+        "utils/console-utils.js",
+        "utils/operation-data.js",
+        "utils/array-range-extended.js"
+    ]
+}
